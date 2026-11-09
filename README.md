@@ -11,8 +11,8 @@ A personal portfolio website to showcase my profile, skills, and projects.
 - Scroll fade-in animation
 
 ## Technologies
-- HTML5
-- CSS3 (CSS variables, grid, flexbox)
+- HTML
+- CSS
 - JavaScript
 
 ## How to Run Locally
