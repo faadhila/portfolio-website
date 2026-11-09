@@ -19,8 +19,5 @@ A personal portfolio website to showcase my profile, skills, and projects.
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
 
-## Screenshot
-!(Portfolio Website.png)
-
 ## Author
 Faadhilah Andini
