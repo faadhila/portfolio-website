@@ -20,7 +20,7 @@ A personal portfolio website to showcase my profile, skills, and projects.
 2. Open `index.html` in your browser.
 
 ## Screenshot
-![Portfolio screenshot](Portfolio Website.png)
+!(Portfolio Website.png)
 
 ## Author
 Faadhilah Andini
