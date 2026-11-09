@@ -2,7 +2,7 @@
 
 A personal portfolio website to showcase my profile, skills, and projects.
 
-**Live Demo:** [https://[username].github.io/portfolio-website/](https://[username].github.io/portfolio-website/)
+**Live Demo:** (https://faadhila.github.io/portfolio-website/)
 
 ## Features
 - Responsive layout with sections: About, Skills, Projects, Contact
@@ -20,7 +20,7 @@ A personal portfolio website to showcase my profile, skills, and projects.
 2. Open `index.html` in your browser.
 
 ## Screenshot
-![Portfolio screenshot](screenshot.png)
+![Portfolio screenshot](Portfolio Website.png)
 
 ## Author
 Faadhilah Andini
